@@ -14,7 +14,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-BASE_DIR = Path(r"C:\dhfr-natlead")
+BASE_DIR = Path(__file__).resolve().parent
 
 
 @st.cache_data

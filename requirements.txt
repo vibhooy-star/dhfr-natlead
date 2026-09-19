@@ -7,3 +7,5 @@ py3Dmol
 stmol
 ipython_genutils
 ipywidgets==7.7.2
+biopython
+rdkit
