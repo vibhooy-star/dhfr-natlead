@@ -1,0 +1,18 @@
+[
+  {
+    "compound": "Baicalein",
+    "human_affinity_kcal_mol": -4.639
+  },
+  {
+    "compound": "Berberine",
+    "human_affinity_kcal_mol": 11.16
+  },
+  {
+    "compound": "Curcumin",
+    "human_affinity_kcal_mol": -4.836
+  },
+  {
+    "compound": "Trimethoprim",
+    "human_affinity_kcal_mol": -4.02
+  }
+]

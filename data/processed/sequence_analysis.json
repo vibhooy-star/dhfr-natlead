@@ -1,0 +1,23 @@
+{
+  "SaDHFR": {
+    "id": "sp|P0A017|DYR_STAAU",
+    "length": 159,
+    "mw": 18250.72,
+    "pI": 5.87,
+    "gravy": -0.21,
+    "instability_index": 31.56,
+    "aliphatic_index": 93.02
+  },
+  "HumanDHFR": {
+    "id": "sp|P00374|DYR_HUMAN",
+    "length": 187,
+    "mw": 21452.48,
+    "pI": 6.85,
+    "gravy": -0.464,
+    "instability_index": 27.16
+  },
+  "alignment": {
+    "score": 70.0,
+    "identity_pct": 37.43
+  }
+}

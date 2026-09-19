@@ -1,0 +1,37 @@
+[
+  {
+    "compound": "Baicalein",
+    "affinity_kcal_mol": -8.085,
+    "output_pdbqt": "C:\\dhfr-natlead\\results\\docking\\Baicalein_docked.pdbqt"
+  },
+  {
+    "compound": "Berberine",
+    "affinity_kcal_mol": -8.077,
+    "output_pdbqt": "C:\\dhfr-natlead\\results\\docking\\Berberine_docked.pdbqt"
+  },
+  {
+    "compound": "Curcumin",
+    "affinity_kcal_mol": -7.841,
+    "output_pdbqt": "C:\\dhfr-natlead\\results\\docking\\Curcumin_docked.pdbqt"
+  },
+  {
+    "compound": "EGCG",
+    "affinity_kcal_mol": -7.188,
+    "output_pdbqt": "C:\\dhfr-natlead\\results\\docking\\EGCG_docked.pdbqt"
+  },
+  {
+    "compound": "Methotrexate",
+    "affinity_kcal_mol": -7.181,
+    "output_pdbqt": "C:\\dhfr-natlead\\results\\docking\\Methotrexate_docked.pdbqt"
+  },
+  {
+    "compound": "Quercetin",
+    "affinity_kcal_mol": -7.219,
+    "output_pdbqt": "C:\\dhfr-natlead\\results\\docking\\Quercetin_docked.pdbqt"
+  },
+  {
+    "compound": "Trimethoprim",
+    "affinity_kcal_mol": -6.321,
+    "output_pdbqt": "C:\\dhfr-natlead\\results\\docking\\Trimethoprim_docked.pdbqt"
+  }
+]

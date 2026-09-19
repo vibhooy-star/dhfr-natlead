@@ -1,0 +1,8 @@
+{
+  "G1_data_integrity": "PASSED",
+  "G2_redocking_validation": {
+    "status": "PASSED",
+    "rmsd_angstrom": 1.18,
+    "vina_affinity_kcal_mol": -6.433
+  }
+}

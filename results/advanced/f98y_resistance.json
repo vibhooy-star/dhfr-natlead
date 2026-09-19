@@ -1,0 +1,20 @@
+[
+  {
+    "compound": "Trimethoprim",
+    "wildtype_kcal_mol": -3.65,
+    "f98y_mutant_kcal_mol": -3.25,
+    "affinity_loss_kcal_mol": 0.4
+  },
+  {
+    "compound": "Baicalein",
+    "wildtype_kcal_mol": -4.292,
+    "f98y_mutant_kcal_mol": -3.828,
+    "affinity_loss_kcal_mol": 0.464
+  },
+  {
+    "compound": "Berberine",
+    "wildtype_kcal_mol": 4.533,
+    "f98y_mutant_kcal_mol": -4.447,
+    "affinity_loss_kcal_mol": -8.98
+  }
+]
